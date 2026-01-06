@@ -1,7 +1,7 @@
 # Hi, I’m @G0o53
-• I’m interested in ... making cool little projects that make my life easier! 😄
+• I’m interested in ... making a ton of shells
 
-• I’m currently learning ... shells and linux
+• I’m currently learning ... C
 
 <!---
 MatthewLizzard/MatthewLizzard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
