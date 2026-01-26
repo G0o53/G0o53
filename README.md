@@ -1,7 +1,6 @@
-# Hi, I’m @G0o53
-• I’m interested in ... making a ton of shells
+# Ello :)
 
-• I’m currently learning ... C
+I'm G0o53, now if you do want to contact me or smth, read my bio, i go by he/him, and, i am not super active on github (i mostly just play on the Wof:TNW minecraft server) but i do still do stuff on github; also, i do not have any socials so please don't ask me on that.
 
 <!---
 MatthewLizzard/MatthewLizzard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
