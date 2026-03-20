@@ -7,9 +7,9 @@ I'm based in Australia.
 
 ### My stack
 
-Mostly using Go, but i am learning C, and after C i am planning to learn zig,
+Mostly using Go, but i am learning rust, and after rust i learn zig,
 my preffered editor is Neovim, but i'm fine with VS as well;
-i mostly use MacOS, but i do also program on linux.
+i mostly use MacOS, but i do also program on linux rarely.
 
 
 <!---
