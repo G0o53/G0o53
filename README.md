@@ -16,5 +16,3 @@ i mostly use MacOS, but i do also program on linux rarely.
 MatthewLizzard/MatthewLizzard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[![Goose's GitHub stats](https://github-readme-stats.vercel.app/api?username=G0o53)](https://github.com/anuraghazra/github-readme-stats)
